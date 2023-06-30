@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecognizatorGosNumber-ru", "RecognizatorGosNumber-ru.csproj", "{327D1581-E352-45CF-A709-580C5284FD3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Debug|x64.ActiveCfg = Debug|x64
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Debug|x64.Build.0 = Debug|x64
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Release|x64.ActiveCfg = Release|x64
+		{327D1581-E352-45CF-A709-580C5284FD3D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A5DB3B-3A91-4314-BC70-FDB6AA0C57F2}
+	EndGlobalSection
+EndGlobal
